@@ -7,7 +7,7 @@
 
  ![Screenshot](/img/mobile-home.png)
 
- <br><br> ![Screenshot](/img/Mobile-Allproduct.png)
+ <br><br> ![Screenshot](/img/Allproduct.png)
  <p>In this screen page we get All products</p>
  
   <br><br> ![Screenshot](/img/productdetail.png)
@@ -23,25 +23,29 @@
 <br><br> ![Screenshot](/img/payment.png)
 <p>This is last page. we will work on payment method.</p>
 
+
+
+
+
 <h1>All Activities in mobile deivce</h1>
 
-Screenshots ![Screenshot](/img/home.png)
+Screenshots ![Screenshot](/img/mobile-home.png)
 <p>This is home page where user can give feedback</p>
 
- <br><br> ![Screenshot](/img/Allproduct.png)
+ <br><br> ![Screenshot](/img/Mobile-Allproduct.png)
  <p>In this screen page we get All products</p>
  
-  <br><br> ![Screenshot](/img/productdetail.png)
+  <br><br> ![Screenshot](/img/mobile-productdetail.png)
 
 <p>We get Detail of Product after click</p>
 
- <br><br> ![Screenshot](/img/profile.png)
+ <br><br> ![Screenshot](/img/mobile-profile.png)
 <p>This is profile page in this user can get personal detail like Name, Userid, Phone no., Email. In this page user can logout and also see all order and Total price.</p>
 
-<br><br> ![Screenshot](/img/cart.png)
+<br><br> ![Screenshot](/img/mobile-cart.png)
 <p>In this Activity user get all detail of Order which user buy</p>
 
-<br><br> ![Screenshot](/img/payment.png)
+<br><br> ![Screenshot](/img/mobile-payment.png)
 <p>This is last page. we will work on payment method.</p>
  
  
