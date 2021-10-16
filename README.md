@@ -5,7 +5,7 @@
     module for admin.</p>
 
 
- ![Screenshot](/img/mobile-home.png)
+ ![Screenshot](/img/home.png)
 
  <br><br> ![Screenshot](/img/Allproduct.png)
  <p>In this screen page we get All products</p>
