@@ -24,6 +24,16 @@ Screenshots ![Screenshot](/img/home.png)
 <br><br> ![Screenshot](/img/payment.png)
 <p>This is last page. we will work on payment method.</p>
 
+<h1>All Activities in mobile deivce</h1>
+ ![Screenshot](/img/mobile-home.png)
+ ![Screenshot](/img/Mobile-allproduct.png)
+ ![Screenshot](/img/mobile-productdetail.png)
+ ![Screenshot](/img/mobile-profile.png)
+ ![Screenshot](/img/mobile-cart.png)
+ ![Screenshot](/img/mobile-payment.png)
+ 
+ 
+ 
 <h1>Technologies Used</h1>
 MySQL<br> PHP <br>CSS<br> HTML <br>Javascript<br><br><br>
 <h1>Tools Used</h1>
