@@ -21,7 +21,7 @@ Screenshots ![Screenshot](/img/home.png)
 <br><br> ![Screenshot](/img/cart.png)
 <p>In this Activity user get all detail of Order which user buy</p>
 
- ![Screenshot](/img/payment.png)
+<br><br> ![Screenshot](/img/payment.png)
 <p>This is last page. we will work on payment method.</p>
 
 <h1>Technologies Used</h1>
