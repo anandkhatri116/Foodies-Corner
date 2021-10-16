@@ -30,7 +30,7 @@
 
 <h1>All Activities in mobile deivce</h1>
 
- ![Screenshot](/img/mobile-home.png)
+ ![](/img/mobile-home.png)
 
  <br><br> ![Screenshot](/img/Mobile-Allproduct.png)
  
