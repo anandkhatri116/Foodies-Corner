@@ -7,8 +7,8 @@
 
 Screenshots ![Screenshot](/img/home.png)
 <p>This is home page where user can give feedback</p>
-![Screenshot](/img/Allproduct.png)
-<p>In this screen page we get All products</p>
+ ![Screenshot](/img/home.png)
+ <p>In this screen page we get All products</p>
 ![Screenshot](/img/productdetail.png)
 <p>We get Detail of Product after click</p>
 ![Screenshot](/img/profile.png)
