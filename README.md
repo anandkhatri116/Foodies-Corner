@@ -32,7 +32,7 @@
 
  ![](/img/mobile-home.png)
 
- <br><br> ![Screenshot](/img/Mobile-Allproduct.png)
+ <br><br> ![](/img/Mobile-Allproduct.png)
  
   <br><br> ![Screenshot](/img/mobile-productdetail.png)
 
