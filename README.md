@@ -8,17 +8,17 @@
 Screenshots ![Screenshot](/img/home.png)
 <p>This is home page where user can give feedback</p>
 
- All product Page ![Screenshot](/img/Allproduct.png)
+ <br><br> ![Screenshot](/img/Allproduct.png)
  <p>In this screen page we get All products</p>
  
-  Product detail Page ![Screenshot](/img/productdetail.png)
+  <br><br> ![Screenshot](/img/productdetail.png)
 
 <p>We get Detail of Product after click</p>
 
- Profile Page ![Screenshot](/img/profile.png)
+ <br><br> ![Screenshot](/img/profile.png)
 <p>This is profile page in this user can get personal detail like Name, Userid, Phone no., Email. In this page user can logout and also see all order and Total price.</p>
 
-Cart Page ![Screenshot](/img/cart.png)
+<br><br> ![Screenshot](/img/cart.png)
 <p>In this Activity user get all detail of Order which user buy</p>
 
  ![Screenshot](/img/payment.png)
