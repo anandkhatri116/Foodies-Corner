@@ -26,6 +26,7 @@ Screenshots ![Screenshot](/img/home.png)
 
 <h1>All Activities in mobile deivce</h1>
 ![Screenshot](/img/mobile-home.png)
+<br>
 ![Screenshot](/img/Mobile-allproduct.png)
  ![Screenshot](/img/mobile-productdetail.png)
  ![Screenshot](/img/mobile-profile.png)
