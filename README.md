@@ -50,7 +50,7 @@ MySQL<br> PHP <br>CSS<br> HTML <br>Javascript<br><br><br>
 <h1>Tools Used</h1>
 <br>XAMPP
 <h1>How to Install and Use Download and install</h1>
-<p>XAMPP/WAMP/LAMP server and download the files of this project Copy the folder of this project in your xampp/htdocs/www folder Start XAMMP.</p>
+<p>XAMPP server and download the files of this project Copy the folder of this project in your xampp/htdocs/www folder Start XAMMP.</p>
 <p>Start Apache and SQLserver.</p>
 <p>Go to phpmyadmin and create a new database named 'food'</p>
 <p>Go to the food database created and click on 'Import' option in the top menu Upload the food.sql file and import </p>
