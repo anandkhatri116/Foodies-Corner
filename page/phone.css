@@ -1,0 +1,261 @@
+/* Navigation */
+
+#navbar {
+    flex-direction: column;
+}
+
+#navbar ul li a {
+    font-size: 7px;
+    width: max-content;
+}
+
+
+/* Home section */
+
+#home {
+    flex-direction: column;
+    margin: -7px auto 0px auto;
+    text-align: center;
+    height: 20pc;
+    background: url(/img/bg1.jpg) no-repeat center center/cover;
+    justify-content: center;
+    align-items: center;
+}
+
+#home::before {
+    height: 480px;
+}
+
+#home p {
+    font-size: 13px;
+}
+
+#home h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    text-shadow: 4px 0px 8px black;
+    height: 1pc;
+    margin: 5pc auto 0px auto;
+    font-size: 20px;
+}
+
+
+/* Services section  */
+
+#s {
+    display: block;
+}
+
+#services {
+    flex-direction: column;
+    margin: auto;
+}
+
+#services .box {
+    margin: 2pc auto;
+    padding: 15px;
+}
+
+#services .box img {
+    height: -webkit-fill-available;
+    width: 8pc;
+    padding: 22px;
+    margin: auto -24px auto -14%;
+    display: block;
+}
+
+#services .hbox {
+    margin: 22px 22px;
+}
+
+#services .hbox img {
+    height: -webkit-fill-available;
+    width: inherit;
+    margin: -16% auto;
+    display: block;
+}
+
+#pro {
+    font-size: 10px;
+    padding: 2px 16px;
+    height: 30px;
+}
+
+
+/* Clients section */
+
+#clients {
+    flex-wrap: wrap;
+}
+
+#clients img {
+    width: auto;
+    padding: 6px;
+    height: auto;
+}
+
+
+/* Contact us section */
+
+#contact-box form {
+    width: 80%;
+}
+
+#contact-box {
+    width: auto;
+    margin: 3% auto 3% auto;
+    padding: 5px;
+}
+
+
+/* Footer */
+
+
+/* Utility classes */
+
+.h-primary {
+    font-size: 26px;
+}
+
+.btn {
+    font-size: 13px;
+    margin-top: 0px;
+    padding: 4px 8px;
+}
+
+
+/*login*/
+
+#ele {
+    font-size: 11px;
+    padding: 7px 8px;
+}
+
+#login p {
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    margin: 0px auto 0px auto;
+    padding: 8px 0px 11px 0px;
+}
+
+.pm {
+    width: 10pc;
+}
+
+
+/* Navigation Bar: List Styling */
+
+#navbar {
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    font-family: 'Baloo Bhai', cursive;
+}
+
+#navbar .li {
+    list-style: none;
+    font-size: 1.3rem;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    margin: 2pc;
+}
+
+#navbar .li a {
+    color: white;
+    font-size: 8px;
+    display: block;
+    width: max-content;
+    padding: 5px 2px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+#navbar .li a:hover {
+    color: black;
+    background-color: white;
+}
+
+
+/*profile*/
+
+#profile {
+    border: #ffffffc7 solid 2px;
+    padding: 10px;
+    margin: 41px auto 1pc auto;
+    border-radius: 98px;
+    height: auto;
+    width: max-content;
+    display: block;
+}
+
+.bx {
+    border-radius: px;
+    height: auto;
+    width: auto;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.text {
+    font-weight: bolder;
+    font-size: 9px;
+    margin: 15px;
+    padding-left: 19px;
+    color: white;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.photo {
+    width: 8px;
+    height: 10px;
+}
+
+.photo img {
+    width: 6pc;
+    height: 6pc;
+}
+
+.smallbox {
+    margin-top: -29px;
+    font-size: 14px;
+    border-radius: 40px;
+    width: auto;
+}
+
+.scon {
+    margin: 0% auto 19%auto;
+    border-radius: 40px;
+    font-size: 14px;
+    height: auto;
+    width: inherit;
+}
+
+.contain {
+    border-radius: 34px;
+    border: 2px solid white;
+    background: linear-gradient(360deg, #cccccc0a 61%, #ffffffcf 60%);
+    height: 5pc;
+    width: 5pc;
+}
+
+#border {
+    border-collapse: separate;
+    border-spacing: 3pc 0pc;
+    width: auto;
+    height: 6pc
+}
+
+.pbtn a {
+    color: black;
+    background-color: white;
+    display: block;
+    font-size: 10px;
+    margin: auto 16px;
+    padding: 6px;
+    border-radius: 20px;
+    text-decoration: none;
+}
