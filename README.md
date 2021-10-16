@@ -5,7 +5,7 @@
     module for admin.</p>
 
 
-<h1>Screenshots![Screenshot](/img/home.png)
+<h1>Screenshots</h1>![Screenshot](/img/home.png)
 <p>This is home page where user can give feedback</p>
 ![Screenshot](/img/Allproduct.png)
 <p>In this screen page we get All products</p>
