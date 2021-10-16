@@ -8,15 +8,20 @@
 Screenshots ![Screenshot](/img/home.png)
 <p>This is home page where user can give feedback</p>
 
- All product ![Screenshot](/img/Allproduct.png)
+ All product Page ![Screenshot](/img/Allproduct.png)
  <p>In this screen page we get All products</p>
-![Screenshot](/img/productdetail.png)
+ 
+  Product detail Page ![Screenshot](/img/productdetail.png)
+
 <p>We get Detail of Product after click</p>
-![Screenshot](/img/profile.png)
+
+ Profile Page ![Screenshot](/img/profile.png)
 <p>This is profile page in this user can get personal detail like Name, Userid, Phone no., Email. In this page user can logout and also see all order and Total price.</p>
-![Screenshot](/img/cat.png)
+
+Cart Page ![Screenshot](/img/cart.png)
 <p>In this Activity user get all detail of Order which user buy</p>
-![Screenshot](/img/payment.png)
+
+ ![Screenshot](/img/payment.png)
 <p>This is last page. we will work on payment method.</p>
 
 <h1>Technologies Used</h1>
