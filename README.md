@@ -25,7 +25,7 @@ Screenshots ![Screenshot](/img/home.png)
 <p>This is last page. we will work on payment method.</p>
 
 <h1>All Activities in mobile deivce</h1>
-Screenshots ![Screenshot](/img/mobile-home.png)
+Screenshots ![Screenshot](/img/home.png)
 <br>
 ![Screenshot](/img/Mobile-allproduct.png)
  ![Screenshot](/img/mobile-productdetail.png)
